@@ -27,9 +27,9 @@ jobs:
 
       # 2. Node.js をセットアップ
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version-file: 'package.json'
 
       # 3. HonKitのインストールとビルド
       - name: Install dependencies and build HonKit site
@@ -40,6 +40,7 @@ jobs:
       # 4. GitHub Pagesにデプロイ
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./public
