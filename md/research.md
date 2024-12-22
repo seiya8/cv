@@ -18,6 +18,7 @@ D 109, 043011 (2024)](https://doi.org/10.1103/PhysRevD.109.043011).
 - A. G. Abac et al. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), Search for gravitational waves emitted from SN 2023ixf, [arXiv:2410.16565](https://doi.org/10.48550/arXiv.2410.16565).
 
 ## Conference presentations
+
 ### International conferences
 
 - **Seiya Sasaoka**, Yilun Hou, Kentaro Somiya, and Hirotaka Takahashi, Localization of gravitational waves using machine learning, [GWADW2022](https://indico.icrr.u-tokyo.ac.jp/event/255/), Online, May 2022.
@@ -32,6 +33,7 @@ Detection of Gravitational Waves from Core-Collapse Supernovae Using Deep Learni
 - Sakino Takeda, **Seiya Sasaoka**, and Kentaro Somiya, Consideration of suspension thermoelastic noise in the vertical direction with heat flow, [LVK Collaboration Meeting](https://www.resceu.s.u-tokyo.ac.jp/symposium/LVK2023toyama/index.php), Toyama, Japan, September 2023.
 - Diego Dominguez, **Seiya Sasaoka**, Suyog Garg, Yilun Hou, Naoki Koyama, Kentaro Somiya, and Hirotaka Takahashi, Convolutional Neural Network for continuous gravitational waves detection, [LVK Collaboration Meeting](https://www.resceu.s.u-tokyo.ac.jp/symposium/LVK2023toyama/index.php), Toyama, Japan, September 2023.
 - Diego Dominguez, **Seiya Sasaoka**, Kentaro Somiya, and Hirotaka Takahashi, Detection of unmodeled CWs using a Transfer Learning approach, [Continuous gravitational waves and neutron stars workshop](https://plan.events.mpg.de/event/133/), Hannover, Germany, June 2024.
+
 ### Domestic conferences
 
 - **笹岡聖也**, Hou Yilun, 宗宮健太郎, 高橋弘毅, 機械学習による重力波の到来方向推定, [日本物理学会第77 回年次大会](https://onsite.gakkai-web.net/jps/jps_search/2022sp/index.html), オンライン, 2022 年 3 月.
