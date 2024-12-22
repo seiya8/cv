@@ -36,6 +36,11 @@ jobs:
         run: |
           npm i
           npx honkit build md public
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
   deploy:
     runs-on: ubuntu-latest
     needs: build
