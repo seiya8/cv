@@ -17,6 +17,7 @@ D 109, 043011 (2024)](https://doi.org/10.1103/PhysRevD.109.043011).
 - A. G. Abac et al. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), A Search Using GEO600 for Gravitational Waves Coincident with Fast Radio Bursts from SGR 1935+2154, [Astrophys. J. 977, 255 (2024)](https://doi.org/10.3847/1538-4357/ad8de0).
 - A. G. Abac et al. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), Search for gravitational waves emitted from SN 2023ixf, [arXiv:2410.16565](https://doi.org/10.48550/arXiv.2410.16565).
 - A. G. Abac et al. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), Search for continuous gravitational waves from known pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing run, [arXiv:2501.01495](https://doi.org/10.48550/arXiv.2501.01495).
+
 ## Conference presentations
 
 ### International conferences
