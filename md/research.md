@@ -1,5 +1,11 @@
 # Research
 
+## Links
+- [Google Scholar](https://scholar.google.com/citations?user=8_zwUVkAAAAJ)
+- [ORCiD](https://orcid.org/0000-0002-2155-8092)
+- [Inspire HEP](https://inspirehep.net/authors/2038893)
+- [arXiv](https://arxiv.org/search/?searchtype=author&query=Sasaoka%2C+S&order=-announced_date_first&size=50&abstracts=hide)
+
 ## Journal papers
 
 ### Short-author list papers
