@@ -48,4 +48,4 @@ Detection of Gravitational Waves from Core-Collapse Supernovae Using Deep Learni
 - 羽場大起, 田中颯, **笹岡聖也**, 宗宮健太郎, 重力波望遠鏡 KAGRA における非一様複屈折下での光共振器の新しい姿勢制御法の開発, [日本物理学会第 78 回年次大会](https://onsite.gakkai-web.net/jps/jps_search/2023au/index.html), 東北大学, 2023年9月.
 - 竹下賢徳, 羽場大起, Hou Yilun, **笹岡聖也**, 宗宮健太郎, 高橋弘毅, 機械学習を用いた複屈折影響下における鏡の姿勢制御, [日本物理学会第 79 回年次大会](https://onsite.gakkai-web.net/jps/jps_search/2024au/index.html), 北海道大学, 2024年9月.
 - 羽場大起, 田中颯, **笹岡聖也**, 宗宮健太郎, 重力波望遠鏡 KAGRA における非一様複屈折下での光共振器の新しい姿勢制御法の開発, [日本物理学会第 79 回年次大会](https://onsite.gakkai-web.net/jps/jps_search/2024au/index.html), 北海道大学, 2024年9月.
-- 坂井佑輔, **笹岡聖也**, Diego Dominguez, 宗宮健太郎, 酒井一樹, 大原謙一, Marco Meyer-Conde, 髙橋弘毅, Hilbert-Huang変換を用いた重力崩壊型超新星の重力波信号からの原始中性子星のパラメータ推定, [日本物理学会2025年春季大会](https://onsite.gakkai-web.net/jps/jps_search/2025sp/index.html), オンライン, 2025年3月.
+- 坂井佑輔, **笹岡聖也**, Diego Dominguez, 宗宮健太郎, 酒井一樹, 大原謙一, Marco Meyer-Conde, 高橋弘毅, Hilbert-Huang変換を用いた重力崩壊型超新星の重力波信号からの原始中性子星のパラメータ推定, [日本物理学会2025年春季大会](https://onsite.gakkai-web.net/jps/jps_search/2025sp/index.html), オンライン, 2025年3月.
