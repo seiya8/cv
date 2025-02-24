@@ -5,8 +5,8 @@ y = f(x)
 $$
 
 $$
-\begin{align}
+\begin{aligned}
    a&=b+c \\
    d+e&=f
-\end{align}
+\end{aligned}
 $$
