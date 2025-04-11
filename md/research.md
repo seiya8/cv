@@ -40,6 +40,7 @@ Detection of Gravitational Waves from Core-Collapse Supernovae Using Deep Learni
 - Sakino Takeda, **Seiya Sasaoka**, and Kentaro Somiya, Consideration of suspension thermoelastic noise in the vertical direction with heat flow, [LVK Collaboration Meeting](https://www.resceu.s.u-tokyo.ac.jp/symposium/LVK2023toyama/index.php), Toyama, Japan, September 2023.
 - Diego Dominguez, **Seiya Sasaoka**, Suyog Garg, Yilun Hou, Naoki Koyama, Kentaro Somiya, and Hirotaka Takahashi, Convolutional Neural Network for continuous gravitational waves detection, [LVK Collaboration Meeting](https://www.resceu.s.u-tokyo.ac.jp/symposium/LVK2023toyama/index.php), Toyama, Japan, September 2023.
 - Diego Dominguez, **Seiya Sasaoka**, Kentaro Somiya, and Hirotaka Takahashi, Detection of unmodeled CWs using a Transfer Learning approach, [Continuous gravitational waves and neutron stars workshop](https://plan.events.mpg.de/event/133/), Hannover, Germany, June 2024.
+- Diego Dominguez, **Seiya Sasaoka**, Kentaro Somiya, and Hirotaka Takahashi, Identifying Continuous Gravitational Wave Signals with ResNet: A Binary Classification Approach, [LVK Collaboration Meeting](https://www.lvk2025melbourne.org/), Melbourne, Australia, March 2025.
 
 ### Domestic conferences
 
