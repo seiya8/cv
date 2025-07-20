@@ -26,6 +26,7 @@ D 109, 043011 (2024)](https://doi.org/10.1103/PhysRevD.109.043011).
 - A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), GW231123: a Binary Black Hole Merger with Total Mass 190-265 $$M_\odot$$, [arXiv:2507.08219](https://doi.org/10.48550/arXiv.2507.08219).
 - A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), All-sky search for short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA observing run, [arXiv:2507.12374](https://doi.org/10.48550/arXiv.2507.12374).
 - A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), All-sky search for long-duration gravitational-wave transients in the first part of the fourth LIGO-Virgo-KAGRA Observing run, [arXiv:2507.12282](https://doi.org/10.48550/arXiv.2507.12282).
+
 ## Conference presentations
 
 ### International conferences
