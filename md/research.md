@@ -23,7 +23,9 @@ D 109, 043011 (2024)](https://doi.org/10.1103/PhysRevD.109.043011).
 - A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), A Search Using GEO600 for Gravitational Waves Coincident with Fast Radio Bursts from SGR 1935+2154, [Astrophys. J. 977, 255 (2024)](https://doi.org/10.3847/1538-4357/ad8de0).
 - A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), Search for continuous gravitational waves from known pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing run, [Astrophys. J. 983, 99 (2025)](https://doi.org/10.3847/1538-4357/adb3a0).
 - A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), Search for gravitational waves emitted from SN 2023ixf, [Astrophys. J. 985, 183 (2025)](https://doi.org/10.3847/1538-4357/adc681).
-
+- A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), GW231123: a Binary Black Hole Merger with Total Mass 190-265 $$M_\odot$$, [arXiv:2507.08219](https://doi.org/10.48550/arXiv.2507.08219).
+- A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), All-sky search for short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA observing run, [arXiv:2507.12374](https://doi.org/10.48550/arXiv.2507.12374).
+- A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), All-sky search for long-duration gravitational-wave transients in the first part of the fourth LIGO-Virgo-KAGRA Observing run, [arXiv:2507.12282](https://doi.org/10.48550/arXiv.2507.12282).
 ## Conference presentations
 
 ### International conferences
