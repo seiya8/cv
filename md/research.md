@@ -16,7 +16,7 @@
 D 109, 043011 (2024)](https://doi.org/10.1103/PhysRevD.109.043011).
 - Naoki Koyama, Yusuke Sakai, **Seiya Sasaoka**, Diego Dominguez, Kentaro Somiya, Yuto Omae, Yoshikazu Terada, Marco Meyer-Conde, and Hirotaka Takahashi, Enhancing the rationale of convolutional neural networks for glitch classification in gravitational wave detectors: a visual explanation, [Mach. Learn.: Sci. Technol. 5, 035028 (2024)](https://doi.org/10.1088/2632-2153/ad6391).
 - **Seiya Sasaoka**, Diego Dominguez, Kentaro Somiya, Kazuki Sakai, Ken-ichi Oohara, Yusuke Sakai, Marco Meyer-Conde, and Hirotaka Takahashi, Parameter estimation of protoneutron stars from gravitational wave signals using the Hilbert-Huang transform, [Phys. Rev. D 110, 104020 (2024)](https://doi.org/10.1103/PhysRevD.105.103030).
-- Daiki Haba, Kento Takeshita, Ruizhe Wan, Hayato Tanaka, **Seiya Sasaoka**, Wang Haoyu and Kentaro Somiya, Mitigation of optics non-uniformity using optimally combined segmented photodetector, [Class. Quant. Grav.](https://doi.org/10.1088/1361-6382/ae2db4).
+- Daiki Haba, Kento Takeshita, Ruizhe Wan, Hayato Tanaka, **Seiya Sasaoka**, Wang Haoyu and Kentaro Somiya, Mitigation of optics non-uniformity using optimally combined segmented photodetector, [Class. Quant. Grav. 43, 015017 (2026)](https://doi.org/10.1088/1361-6382/ae2db4).
 
 ### Collaboration papers
 
