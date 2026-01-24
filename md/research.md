@@ -33,6 +33,7 @@ D 109, 043011 (2024)](https://doi.org/10.1103/PhysRevD.109.043011).
 - A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), GWTC-4.0: Population Properties of Merging Compact Binaries, [arXiv:2508.18083](https://doi.org/10.48550/arXiv.2508.18083).
 - A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), Directed searches for gravitational waves from ultralight vector boson clouds around merger remnant and galactic black holes during the first part of the fourth LIGO-Virgo-KAGRA observing run, [arXiv:2509.07352](https://doi.org/10.48550/arXiv.2509.07352).
 - A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), Black Hole Spectroscopy and Tests of General Relativity with GW250114, [arXiv:2509.08099](https://doi.org/10.48550/arXiv.2509.08099).
+- A. G. Abac *et al*. (The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration), Deep Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO and Virgo, [arXiv.2601.07595](https://doi.org/10.48550/arXiv.2601.07595).
 
 ## Conference presentations
 
